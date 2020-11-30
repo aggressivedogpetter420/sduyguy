@@ -1,0 +1,36 @@
+.title{
+	color: white;
+	text-align: center;
+}
+.navbar{
+	background-color: grey;
+	width: 240px;
+	height: 100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+	padding: 10px;
+}
+.link{
+
+}
+.list{
+	list-style-type: none;
+	padding: 0;
+	margin: 0 auto;
+}
+.item{
+	text-align: center;
+}
+.info{
+	margin: 0;
+	margin-left: 250px;
+	padding: 20px;
+	border: 2px solid black;
+	width: 350px;
+	background-color:#fff;
+}
+body{
+	background: url("sunset.jpg");
+	background-repeat: repeat;
+}
